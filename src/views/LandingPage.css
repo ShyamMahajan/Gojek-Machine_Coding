@@ -1,0 +1,22 @@
+.container-box-search{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-box-result{
+    padding: 15px;
+    display: flex;
+    height: 20vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-input {
+    outline: none;
+}

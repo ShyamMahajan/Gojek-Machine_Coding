@@ -1,0 +1,10 @@
+.search-grid {
+    padding: 15px;
+    display: grid;
+
+    grid-template-columns: repeat(8, min-content);
+    justify-items: center;
+    justify-content: center;
+    row-gap: 20px;
+    column-gap: 25px;
+}
